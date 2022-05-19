@@ -1,3 +1,10 @@
 hi how are you??
 
 git diff= shows diff between local and staged
+git status
+git add .
+git add <flname.txt>
+git restore --staged abc.txt/git restore --staged abc.txt = to remove file from staged area
+git commit -m "second commit"
+git push -u origin mai
+git remote add origin https://github.com/Ashwin-svd/git_tut.git
