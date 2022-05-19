@@ -8,3 +8,5 @@ git restore --staged abc.txt/git restore --staged abc.txt = to remove file from 
 git commit -m "second commit"
 git push -u origin mai
 git remote add origin https://github.com/Ashwin-svd/git_tut.git
+git log
+hello
